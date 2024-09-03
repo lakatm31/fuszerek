@@ -1,0 +1,112 @@
+id	nev
+1	alma
+2	ánizs
+3	ánizsmag
+4	babér
+5	babérlevél
+6	barnacukor
+7	bazsalikom
+8	borókabogyó
+9	bors
+10	borsikafű
+11	burgonyakeményítő
+12	burgonyapehely
+13	Cayenne-bors
+14	chili
+15	chilipor
+16	citromfű
+17	citromhéj
+18	citrompor
+19	citromsav
+20	cukor
+21	curry
+22	csillagánizs
+23	édeskömény
+24	fahéj
+25	fahéjvirág
+26	fehér szezámmag
+27	fehérbors
+28	fekete szezámmag
+29	feketebors
+31	fokhagyma
+32	fokhagymagranulátum
+33	füstölt paprika
+34	füstölt só
+35	füstsó
+36	fűszerpaprika
+37	garam masala
+38	görögszéna
+39	görögszénamag
+40	guineai bors
+41	gyömbér
+42	hagyma
+43	hibiszkusz
+44	kakukkfű
+45	kapor
+46	kaporlevél
+47	kapormag
+48	kardamom
+49	kávé
+50	koriander
+51	korianderlevél
+52	koriandermag
+53	kömény
+54	köménymag
+55	krétai vad bazsalikom
+56	krétai vad kakukkfű
+57	krétai vad majoranna
+58	krétai vad oregánó
+59	krétai vad rozmaring
+60	kubebabors
+61	kukoricadara
+62	kurkuma
+63	lestyán
+64	levendula
+65	majoranna
+66	mák
+67	menta
+68	mustármag
+69	nádcukor
+70	narancshéj
+71	nigella
+72	nori
+73	oregánó
+74	paprika
+75	paradicsom
+76	paszternák
+77	petrezselyem
+78	petrezselyemgyökér
+79	petrezselyemlevél
+80	piros pritaminpaprika
+81	póré
+82	pritamin
+83	pritaminpaprika
+84	római kömény
+85	rozmaring
+86	rózsabors
+87	sáfrány
+88	sáfrányos szeklice
+89	sárgarépa
+90	snidling
+91	só
+92	sumach
+93	szecsuáni bors
+94	szegfűbors
+95	szegfűszeg
+96	szerecsendió
+97	szerecsendióvirág
+98	szezámmag
+99	tárkony
+100	tengeri só
+101	tormapor
+102	turbolya
+103	vanília
+104	vöröshagyma
+105	zeller
+106	zellergyökér
+107	zellerlevél
+108	zöldbors
+109	zöldség
+110	zöldségek
+111	zöldségkeverék
+112	zsálya

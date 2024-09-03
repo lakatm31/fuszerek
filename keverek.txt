@@ -1,0 +1,127 @@
+id	nev	ar	tomeg	szarmazas	ajanlat
+1	Aglio-olio	290	20	Magyarország	Olasz, tésztás ételekhez.
+2	Almás pite	290	20	Magyarország	Almás sütemények töltelékének ízesítéséhez.
+3	Argentin	290	20	Magyarország	Sült húsokhoz.
+4	Baharat	290	20	Magyarország	
+5	Bami goreng	290	20	Magyarország	Indonéz jellegű ételekhez.
+6	Bárány	290	20	Magyarország	Sült húsokhoz, ragukhoz, elsősorban bárányhoz.
+7	Barbecue	290	20	Magyarország	Grillhúsok pácolásához, sült húsok ízesítéséhez.
+8	Biriyani masala	290	20	Magyarország	Indiai ételekhez.
+9	Bolognai	290	20	Magyarország	Paradicsomos szószokhoz.
+10	Borneói vaníliás bors	900	10	Németország	Halakhoz, mártásokhoz.
+11	Cajun	320	20	Magyarország	Sült húsokhoz, grillezéshez.
+12	Chili con carne	290	20	Magyarország	Chilis bab készítéséhez.
+13	Citromos bors	290	20	Magyarország	Halakhoz, mártásokhoz.
+14	Creol	290	20	Magyarország	Sült húsok ízesítésére.
+15	Curry	260	20	Magyarország	Indiai ételek ízesítéséhez.
+16	Curry angol	290	20	Németország	Indiai raguk ízesítéséhez ajánlott fűszerkeverék.
+17	Curry colombo	290	20	Magyarország	Indiai ételek ízesítéséhez.
+18	Curry csípős	290	20	Magyarország	Csípős indiai ételek készítéséhez.
+19	Curry édeskés	290	20	Magyarország	Édes jellegű indiai ételek készítéséhez.
+20	Curry enyhén csípős	290	20	Magyarország	Enyhén csípős indiai ételek készítéséhez.
+21	Curry madras	290	20	Magyarország	Indiai ételek készítéséhez.
+22	Currys csirke	290	20	Magyarország	Indiai ételek készítéséhez.
+23	Cseréptálban sültek	290	20	Magyarország	Sült húsok, zöldségek ízesítésére.
+24	Csípős csirkeszárny	290	20	Magyarország	Csirkeszárnyak ízesítésére.
+25	Csirkekirály	290	20	Magyarország	Szárnyas húsok ízesítésére.
+26	Ételízesítő glutamát nélkül	290	50	Magyarország	Levesekhez, sült húsokhoz, ragukhoz.
+27	Fajita	290	20	Magyarország	Mexikói jellegű ételek és grillezett húsok, halak fűszerezésére.
+28	Fasírt	290	20	Magyarország	Fasírtok, húsgolyók, darált húsok ízesítésére.
+29	Fincsibe	290	20	Magyarország	Sült szárnyas húsokhoz.
+30	Flekken	290	30	Magyarország	Sült húsok ízesítésére.
+31	Fokhagymás bors	290	20	Magyarország	Sült húsok ízesítésére.
+32	Fokhagymás só	230	30		Sült húsok ízesítésére.
+33	Forralt fehérbor	350	20	Magyarország	Forralt fehérbor készítéséhez.
+34	Forraltbor	350	20	Magyarország	1-1,5 l forralt bor készítéséhez.
+35	Forraltbor fűszerkeverék ajándék üvegben	1650	100	Magyarország	7-8 l forralt bor készítéséhez.
+36	Forraltbor gyümölcsös	350	20	Magyarország	1-1,5 l forralt bor készítéséhez.
+37	Füstsó	290	30	Magyarország	Sült húsok, raguk készítéséhez.
+38	Fűszervaj	290	20	Magyarország	Szárnyas húsok, tészták ízesítésére.
+39	Garam masala egész	290	20	Magyarország	Indiai ételek elkészítéséhez.
+40	Garam masala őrölt	290	20	Magyarország	Indiai ételek elkészítéséhez.
+41	Goa masala	290	20	Magyarország	Indiai jellegű ételekhez.
+42	Gourmet tarkabors	470	20	Magyarország	Bármilyen ételhez.
+43	Görög saláta	290	20	Magyarország	Saláták fűszerezéséhez.
+44	Grill	290	20	Magyarország	Grillhúsok, zöldségek ízesítésére.
+45	Grillbors	290	20	Magyarország	Grillhúsok, zöldségek ízesítésére.
+46	Grillcsirke	290	20	Magyarország	Sült csirke illetve csirkecomb készítéséhez.
+47	Grillzöldség	290	20	Magyarország	Grillzöldségek készítéséhez.
+48	Gulyás	290	20	Magyarország	Gulyásleves ízesítésére.
+49	Gyros	290	20	Magyarország	Sült húsok és gyros készítéséhez.
+50	Gyümölcsleves	290	20	Magyarország	Gyümölcsleves készítéséhez.
+51	Hét tenger curry	290	20	Magyarország	Indiai ételek készítéséhez.
+52	Hétfűszer	290	20	Magyarország	Saláták, sült zöldségek, főzelékek ízesítésére.
+53	Indiai bárány	290	20	Magyarország	Indiai jellegű bárányhúsból készült ételek elkészítéséhez.
+54	Indiai ötfűszer	290	20	Magyarország	Lencsés, zöldséges, indiai jellegű ételekhez.
+55	Indiai szárnyas	290	20	Magyarország	Indiai jellegű ételek készítéséhez.
+56	Kacsasült	290	20	Magyarország	Szárnyashúsok ízesítésére.
+57	Kansas grill	290	20	Magyarország	Barbecue-hoz, grillezéshez, sült húsok készítéséhez.
+58	Karácsonyi sütemény	290	20	Magyarország	Mézeskalácshoz vagy karácsonyi süteményekhez
+59	Kasmír masala	290	20	Magyarország	Indiai jellegű ételekhez.
+60	Kínai	290	20	Magyarország	Távol keleti ételekhez.
+61	Kínai csípős	290	20	Magyarország	Csípős, távol keleti ételekhez.
+62	Kínai halfűszer	290	20	Magyarország	Halakhoz és kínai ételekhez.
+63	Kínai hétfűszer	290	20	Magyarország	Távol keleti ételekhez.
+64	Kínai ötfűszer	290	20	Magyarország	Sültekhez, ragukhoz, süteményekhez.
+65	Krétai fűszerkeverék vadon termő	390	10	Kréta	Különleges, intenzív ízű fűszerkeverék, mely kiváló salátákhoz.
+66	Lazac-steak	290	20	Magyarország	Halak ízesítésére.
+67	Leves lelke	290	20	Magyarország	Levesekhez, konfitált húsokhoz.
+68	Libasült	290	20	Magyarország	Szárnyashúsok ízesítésére.
+69	Magyaros	290	20	Magyarország	Pörköltek, raguk ízesítésére
+70	Magyaros grillpác	290	25	Magyarország	Grillhúsok pácolásához.
+71	Májgombóc	290	20	Magyarország	Májgombóc ízesítésére
+72	Marokkói csirke	290	20	Magyarország	Csirkehús fűszerezésére.
+73	Mártogatós	290	20	Magyarország	Joghurthoz, tejfölhöz adva mártogatósként zöldségek, chipsek mellé.
+74	Mediterrán zöldfűszer	290	20	Magyarország	Salátafűszerként.
+75	Mexikói	290	20	Magyarország	Mexikói raguk ízesítésére.
+76	Mézeskalács 	290	20	Magyarország	Mézeskalácshoz vagy mézes jellegű süteményekhez.
+77	Mézessütemény	290	20	Magyarország	Mézeskalácshoz vagy mézes jellegű süteményekhez.
+78	Mucho macho	290	20	Magyarország	Csípős sült húsok ízesítésére.
+79	Mustáros karaj	290	20	Magyarország	Sült sertéshús fűszerezésére.
+80	Négyfűszer	290	20	Magyarország	Saláták fűszerezésére.
+81	Nyárspolgár bbq rub francia	1500	225	Magyarország	Sertéshez, szárnyashoz.
+82	Nyárspolgár bbq rub joker	1500	225	Magyarország	Bármilyen húsféléhez.
+83	Nyárspolgár bbq rub texasi kávés	1500	225	Magyarország	Marhához, sertéshez.
+84	Olasz	290	10	Magyarország	Olaszos ételek készítéséhez.
+85	Oldalas	290	20	Magyarország	Sült húsok ízesítéséhez.
+86	Ördög hozta csirke	290	20	Magyarország	Csípős, szárnyashúsok ízesítésére.
+87	Paella	290	20	Magyarország	Paella készítéséhez.
+88	Pástétom	290	20	Magyarország	Pástétomok, húskrémek készítéséhez.
+89	Pecsenye-grill-steak	290	20	Magyarország	Sült húsok ízesítésére.
+90	Pizza	290	10	Magyarország	Olaszos tészták, raguk ízesítéséhez.
+91	Pokol	290	20	Magyarország	Csípős húsok ízesítéséhez.
+92	Provence	290	10	Magyarország	Saláták, raguk fűszerezésére.
+93	Rák és hal	290	20	Magyarország	Rákok, halak ízesítésére.
+94	Rizsfűszer	290	20	Magyarország	Rizs főzéséhez.
+95	Rozmaringos sült zöldség	290	20	Magyarország	Sült zöldségek készítéséhez.
+96	Rozmaringos sültburgonya	290	30	Magyarország	Rozmaringos steakburgonya készítéséhez.
+97	Sajt és túró	290	10	Magyarország	Sajt-, és túrókrém készítéséhez.
+98	Saláta	290	10	Magyarország	Saláták fűszerezésére.
+99	Sertésropogós	290	20	Magyarország	Ropogós sertéssült készítéséhez.
+100	Sertéssült	290	30	Magyarország	Sült sertéshús készítéséhez.
+101	Shichimi togarashi	800	20	Magyarország	Sültekhez, rizshez, zöldséges tésztához.
+102	Steak	290	20	Magyarország	Grill és sült húsok ízesítésére.
+103	Steakbors	290	20	Magyarország	Grill és sült húsok ízesítéséhez, pácolásához.
+104	Sültburgonya	290	30	Magyarország	Sültburgonya ízesítésére.
+105	Sültcsirke	290	20	Magyarország	Sült szárnyashúsok ízesítésére.
+106	Sülthal	290	20	Magyarország	Sült hal készítéséhez.
+107	Svájci steak	330	20	Magyarország	Grillhúsok, elsősorban marhahús ízesítésére.
+108	Szárnyas fűszerkeverék	290	20	Magyarország	Szárnyas sült húsok, raguk ízesítésére.
+109	Szezámmagos saláta	290	20	Magyarország	Salátafűszerként.
+110	Taco	290	20	Magyarország	Mexikói ételek ízesítésére.
+111	Tandoori masala	290	20	Magyarország	Indiai ételek ízesítésére.
+112	Tarkabors	390	20	Magyarország	Bármilyen ételhez.
+113	Tavaszi saláta	290	10	Magyarország	Saláták fűszerezésére.
+114	Téli alma varázs	350	20	Magyarország	1-1,5 l forró almalé készítéséhez.
+115	Thai curry	290	20	Magyarország	Thai ételek készítéséhez.
+116	Tikka masala	290	20	Magyarország	Húsokhoz és indiai ételek ízesítéséhez..
+117	Tzatziki	290	20	Magyarország	Tzatziki készítéséhez.
+118	Tzatziki kaporral	290	20	Magyarország	Kapros tzatziki készítéséhez.
+119	Vad	290	20	Magyarország	Vadhúsok ízesítéséhez.
+120	Vadpác	320	20	Magyarország	Vadhúsok pácolásához.
+121	Vöröshagymás bors	290	20	Magyarország	Sült húsokhoz, salátákhoz.
+122	Vöröshagymás só	230	20	Magyarország	Sült húsok és grillek ízesítésére.
+123	Wok	320	20	Magyarország	Wokban készülő zöldséges, tésztás ételek készítéséhez.
+124	Zahtar	290	20	Magyarország	Közel-keleti ételekhez, olívaolajjal keverve pitához, pirítóshoz.
+125	Zellersó levéllel	220	30	Magyarország	Levesekhez, sültekhez, salátákhoz.
+126	Zöldfűszeres grillpác	290	30	Magyarország	Grillhúsok pácolásához.
